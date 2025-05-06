@@ -1,0 +1,102 @@
+[
+  {
+    "name": "James Anderson",
+    "description": "A software engineer from Seattle who loves hiking and coffee.",
+    "profilePhoto": "/images/users/user-2.webp"
+  },
+  {
+    "name": "Emily Johnson",
+    "description": "A graphic designer based in Austin, passionate about art and music.",
+    "profilePhoto": "/images/users/user-4.webp"
+  },
+  {
+    "name": "Michael Smith",
+    "description": "A high school teacher from Chicago who enjoys basketball and reading.",
+    "profilePhoto": "/images/users/user-1.webp"
+  },
+  {
+    "name": "Olivia Brown",
+    "description": "A marketing specialist in New York City, foodie and travel enthusiast.",
+    "profilePhoto": "/images/users/user-3.webp"
+  },
+  {
+    "name": "William Davis",
+    "description": "A firefighter from Denver who loves the outdoors and mountain biking.",
+    "profilePhoto": "/images/users/user-2.webp"
+  },
+  {
+    "name": "Sophia Martinez",
+    "description": "A nurse in Miami, enjoys salsa dancing and volunteering.",
+    "profilePhoto": "/images/users/user-3.webp"
+  },
+  {
+    "name": "Benjamin Wilson",
+    "description": "A college student in Boston, passionate about robotics and chess.",
+    "profilePhoto": "/images/users/user-4.webp"
+  },
+  {
+    "name": "Ava Miller",
+    "description": "A photographer from San Francisco, loves surfing and nature.",
+    "profilePhoto": "/images/users/user-1.webp"
+  },
+  {
+    "name": "Ethan Moore",
+    "description": "A chef in Los Angeles, enjoys experimenting with new recipes.",
+    "profilePhoto": "/images/users/user-2.webp"
+  },
+  {
+    "name": "Isabella Taylor",
+    "description": "A veterinarian from Dallas, animal lover and runner.",
+    "profilePhoto": "/images/users/user-4.webp"
+  },
+  {
+    "name": "Alexander Thomas",
+    "description": "A musician in Nashville, plays guitar and writes songs.",
+    "profilePhoto": "/images/users/user-3.webp"
+  },
+  {
+    "name": "Mia Harris",
+    "description": "A college professor in Philadelphia, enjoys reading and gardening.",
+    "profilePhoto": "/images/users/user-1.webp"
+  },
+  {
+    "name": "Daniel Clark",
+    "description": "A web developer from Portland, loves cycling and craft beer.",
+    "profilePhoto": "/images/users/user-2.webp"
+  },
+  {
+    "name": "Charlotte Lewis",
+    "description": "A fashion blogger in Atlanta, passionate about style and travel.",
+    "profilePhoto": "/images/users/user-3.webp"
+  },
+  {
+    "name": "Matthew Young",
+    "description": "A paramedic from Houston, enjoys fishing and baseball.",
+    "profilePhoto": "/images/users/user-4.webp"
+  },
+  {
+    "name": "Amelia King",
+    "description": "A social worker in Detroit, loves painting and yoga.",
+    "profilePhoto": "/images/users/user-1.webp"
+  },
+  {
+    "name": "David Scott",
+    "description": "A real estate agent in Phoenix, enjoys hiking and golf.",
+    "profilePhoto": "/images/users/user-2.webp"
+  },
+  {
+    "name": "Harper Green",
+    "description": "A baker from Minneapolis, loves books and jazz music.",
+    "profilePhoto": "/images/users/user-3.webp"
+  },
+  {
+    "name": "Joseph Hall",
+    "description": "A pilot in San Diego, passionate about travel and photography.",
+    "profilePhoto": "/images/users/user-4.webp"
+  },
+  {
+    "name": "Abigail Adams",
+    "description": "A librarian from Baltimore, enjoys knitting and classic films.",
+    "profilePhoto": "/images/users/user-1.webp"
+  }
+]

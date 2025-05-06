@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# StartHub Academy Test Assignment
 
-## Getting Started
+## Live Link
+[View Live Demo](https://starthub-academy-test-assignment.vercel.app/)
 
-First, run the development server:
-
+## Installation Steps
 ```bash
+git clone git@github.com:daminisherathiya/starthub-academy-test-assignment.git
+cd starthub-academy-test-assignment
+npm i
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Once running, we can access the application at: http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Performance
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Leveraged NextJS's capabilities and achieved top-notch performance scores
+- Leveraged NextJS's server-side rendering (SSR) capabilities
+- Leveraged NextJS's components like <Image> and <Link>
+- ...
 
-## Learn More
+Results from [Google PageSpeed Insights](https://pagespeed.web.dev/analysis/https-starthub-academy-test-assignment-vercel-app/8rmot3wcnr?form_factor=desktop)
+- **Performance: 100 / 100**
+- **Accessibility: 100 / 100**
+- **Best Practices: 100 / 100**
+- **SEO: 100 / 100**
 
-To learn more about Next.js, take a look at the following resources:
+![Google PageSpeed Insights](./public/google-page-speed-insights.png "Google PageSpeed Insights")
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## A brief explanation of SEO Optimizations and WCAG Compliance
+- The title and description are generated dynamically using NextJS's generateMetadata() function (Upon each page load, we can see different title)
+- The page is rendered server-side using NextJS's server-side rendering (SSR) capabilities
+- The page is mobile-friendly and responsive on all screen sizes
+- Proper Meta tags including title, description, and Open Graph tags are used
+- The page speed is very good
+- Proper HTML semantic structure is used
+- Proper alt text for images are used
+- Basic navigation support like hitting tab selects the next user and hitting enter opens the currently focused user (similar to click behaviour)
+- ...
